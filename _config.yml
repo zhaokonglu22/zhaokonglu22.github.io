@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 科研项目 Research
-    link: /research.html
-  - title: 论文 Publications
-    link: /publications.html
+  - title: 家人 Families
+    link: /families.html
+  - title: 朋友 Friends
+    link: /friends.html
