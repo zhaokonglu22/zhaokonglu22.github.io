@@ -11,14 +11,14 @@ permalink: /blog/:year/:month/:day/:title.html
 encoding: utf-8
 # Sections on the "people" page.
 roles:
-  - key: age      # faculty
-    name: 年龄 Age
-  - key: sex       # grad 
-    name: 性别 Sex
-  - key:  height          # ugrad
-    name: 身高 Height
-  - key: class            # collab
-    name: 班级 Class
+  - key: faculty
+    name: 教师 Faulty
+  - key: grad 
+    name: 研究生 Graduation
+  - key: ugrad
+    name: 本科生 Under Graduation
+  - key: collab
+    name: 合作 Collaboration
 
 
 # Number of news stories on the front page.
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 家人 Families
-    link: /families.html
+  - title: 待学习的知识 Knowledge
+    link: /knowledge.html
   - title: 朋友 Friends
     link: /friends.html
